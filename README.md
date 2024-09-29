@@ -1,7 +1,7 @@
 ### Hey there! 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=swarn6402&color=blue" alt="Swarnjeet Nath Tiwary" /></p>
 
-- 👋 I’m Swarnjeet Nath Tiwary, 4th year Btech Undergrad.
+- 👋 I’m Swarnjeet N Tiwary, a 4th year BTech undergrad from India.
 - 💻 I love learning new concepts, implementing algorithms and making websites.
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - ⚡ Hobbies - Reading, Cricket, Movies, Gymming
