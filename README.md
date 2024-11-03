@@ -12,7 +12,7 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swarnjeet-nath-tiwary-061722199/)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/swarn6402)
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/swarnjeet_6402/)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/swarn6402/)
 
   
 <!--
