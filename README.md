@@ -2,8 +2,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=swarn6402&color=blue" alt="Swarnjeet Nath Tiwary" /></p>
 
 - 👋 I’m Swarnjeet Nath Tiwary, a software dev from India.
-- 🌐 Check out my personal website: [swarn.xyz](https://swarn6402.github.io
-/)
+- 🌐 Check out my personal website: [swarn.xyz](https://swarn6402.github.io/)
 - 💻 I love learning new concepts, implementing algorithms and making websites.
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - ⚡ Hobbies - Reading, Cricket, Movies, Gymming
