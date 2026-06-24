@@ -1,19 +1,20 @@
 ### Hey there! 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=swarn6402&color=blue" alt="Swarnjeet Nath Tiwary" /></p>
 
-- 👋 I’m Swarnjeet Nath Tiwary, a software dev from India.
-- 🌐 Check out my personal website: [swarn.xyz](https://portfolio-alpha-vert-65.vercel.app/)
-- 💻 I love learning new concepts, implementing algorithms and making websites.
-- 🌱 I'm exploring different fields in software development and learning new skills.
-- ⚡ Hobbies - Reading, Cricket, Movies, Gymming
-- 📫 You can contact me through email - swarnjeettiwary01@gmail.com
+- 👋 I’m Swarnjeet Nath Tiwary, a software developer from India.
+- 🌐 Portfolio: [swarn.xyz](https://portfolio-alpha-vert-65.vercel.app/)
+- ✍️ Thoughts & notes: [swarn.bearblog.dev](https://swarn.bearblog.dev/)
+- 💻 I enjoy learning new technologies, building projects, and turning ideas into working products.
+- 🌱 Currently exploring AI, software engineering, and computer science.
+- ⚡ Outside of coding: Reading, Sports, Movies, and Staying Fit (not strictly in that order :D)
+- 📫 Reach me at: swarnjeettiwary01@gmail.com
 
 
 ### My Social Media Handles
 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swarnjeet-nath-tiwary-061722199/)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/swarn6402)
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/swarn6402/)
+[<img src="https://img.shields.io/badge/Blog-FF6B35?style=for-the-badge&logo=rss&logoColor=white" />](https://swarn.bearblog.dev/)
 
   
 <!--
