@@ -1,12 +1,11 @@
 ### Hey there! 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=swarn6402&color=blue" alt="Swarnjeet Nath Tiwary" /></p>
 
-- 👋 I’m Swarnjeet Nath Tiwary, a software developer from India.
-- 🌐 Portfolio: [swarn.xyz](https://portfolio-alpha-vert-65.vercel.app/)
-- ✍️ Thoughts & notes: [swarn.bearblog.dev](https://swarn.bearblog.dev/)
-- 💻 I enjoy learning new technologies, building projects, and turning ideas into working products.
-- 🌱 Currently exploring AI, software engineering, and computer science.
-- ⚡ Outside of coding: Reading, Sports, Movies, and Staying Fit (not strictly in that order :D)
+- 👋 I’m Swarnjeet Nath Tiwary, a software developer from India and a 5 a.m. guy.
+- 🌐 Portfolio: [swarn.xyz](https://swarn6402.vercel.app/)
+- 💻 I like going down rabbit holes and turning what I find interesting into projects.
+- 🌱 Somewhere between shipping with AI and learning how it works under the hood.
+- ⚡ I love reading, sports, movies, and staying fit (not strictly in that order :D)
 - 📫 Reach me at: swarnjeettiwary01@gmail.com
 
 
