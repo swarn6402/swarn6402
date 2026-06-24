@@ -11,7 +11,7 @@
 
 ### My Social Media Handles
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swarnjeet-nath-tiwary-061722199/)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swarn6402/)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/swarn6402)
 [<img src="https://img.shields.io/badge/Blog-FF6B35?style=for-the-badge&logo=rss&logoColor=white" />](https://swarn.bearblog.dev/)
 
