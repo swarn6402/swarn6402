@@ -2,7 +2,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=swarn6402&color=blue" alt="Swarnjeet Nath Tiwary" /></p>
 
 - 👋 I’m Swarn, a software dev from India and a 5 a.m. guy.
-- 🌐 Portfolio: [swarn.xyz](https://swarn6402.vercel.app/)
+- 🌐 Portfolio: [swarn](https://swarn6402.vercel.app/)
 - 💻 I like going down rabbit holes and turning what I find interesting into projects.
 - 🌱 Somewhere between shipping with AI and learning how it works under the hood.
 - ⚡ I love reading, sports, movies, and staying fit (not strictly in that order :D)
